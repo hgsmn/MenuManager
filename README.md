@@ -1,2 +1,3 @@
 # MenuManager
-Build an application to manage weekly menu to avoid repetitive task 
+
+Target : Build an application to manage weekly menu to avoid repetitive task
